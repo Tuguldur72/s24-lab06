@@ -16,8 +16,8 @@ public class Main {
          * Feel free to write more to test your implementation. 
          * */
 
-        IntegerList list1;
-        SortedIntList list2;
+        DelegationSortedIntList list1;
+        InheritanceSortedIntList list2;
 
         list1 = new DelegationSortedIntList();
         list2 = new InheritanceSortedIntList();
